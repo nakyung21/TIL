@@ -114,3 +114,8 @@ public class IfDiceExample {
 
 }
 ```
+
+#### 4.2.4 중첩 if문
+- if문의 불록 내부에 도 다른 if문을 사용 가능
+- 중첩의 단계는 제한X
+- if문 안에 if문 뿐만 아니라 switch문, for문, while문, do-while문을 서로 중첩 시킬 수 있음
